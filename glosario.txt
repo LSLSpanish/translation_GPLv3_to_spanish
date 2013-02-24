@@ -1,0 +1,8 @@
+work = obra
+licensee = licenciatario
+recipient = destinatario
+to modify = modificar
+covered work = obra cubierta
+to propagate = propagar
+to convey = transmitir
+Appropriate Legal Notices = Avisos Legales Apropiados
