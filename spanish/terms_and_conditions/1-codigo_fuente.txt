@@ -1,0 +1,47 @@
+  1. Código fuente.
+  
+  El "código fuente" de un trabajo significa la forma preferida de
+trabajo para hacerle modificaciones. "Código objeto" es cualquier 
+forma sin-fuente de un trabajo.
+
+  Una "Interfaz Estándar" significa una interfaz que es un estándar 
+oficial definido por un cuerpo de estándares reconocido o, en el 
+caso de interfaces especificadas para un lenguaje de programación en
+particular, una que es extensamente utilizada entre los
+desarrolladores que trabajan en ese lenguaje.
+
+  El "Sistema de Librerías" de un trabajo ejecutable incluye
+cualquier cosa, diferente del trabajo como un todo, que (a) está
+incluido en la forma normal de paquetizado de un Componente
+Importante, y (b) sirve solo para habilitar el uso del trabajo con
+ese Componente Importante, o para implementar una Interfaz Estándar
+para la cual la implementación está disponible para el público en
+forma de código fuente. Un "Componente Importante", en este
+contexto, significa un componente esencial importante (kernel,
+sistema de ventanas, etcétera) del sistema operativo en concreto
+(si hubiese) en el cual el ejecutable funciona, o un compilador
+utilizado para producir el trabajo, o un intérprete de código objeto
+utilizado para hacerlo funcionar.
+
+  El "Fuente Correspondiente" de un trabajo en forma de código
+objeto significa todo el código fuente necesario para generar,
+instalar, y (para un trabajo ejecutable) hacer funcionar el código
+objeto y modificar el trabajo, incluyendo scripts para controlar
+dichas actividades. Sin embargo, ello no incluye el trabajo del
+Sistema de Librerías, o herramientas de propósito general o
+programas de libre disponibilidad general los cuales son usados sin
+modificaciones para la realización de dichas actividades, pero que
+no son parte del trabajo. Por ejemplo, el Fuente Correspondiente 
+incluye ficheros de definición de interfaces asociadas con los 
+ficheros fuente para el trabajo, y el código fuente para librerías
+compartidas y subprogramas enlazados dinámicamente para los que el
+trabajo está específicamente diseñado para requerir, tales como
+comunicación de datos intrínseca o flujo de control entre aquellos
+subprogramas y otras partes del trabajo.
+
+  El Fuente Correspondiente es necesario que no incluya nada que
+los usuarios puedan regenerar automáticamente desde otras partes
+del Fuente Correspondiente.
+
+  El Fuente Correspondiente de un trabajo en forma de código fuente
+es el mismo trabajo.
