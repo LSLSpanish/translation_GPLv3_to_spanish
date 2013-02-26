@@ -6,8 +6,8 @@ TÉRMINOS Y CONDICIONES
 General de GNU.
 
   "Copyright" también significa las leyes similares a la de copyright 
-que se apliquen a otro tipo de obras, tales como las máscaras 
-semiconductoras.
+que se apliquen a otro tipo de obras, tales como las mascaras usadas 
+en la fabricacion de semiconductores.
 
   "El Programa" se refiere a cualquier obra con copyright bajo esta 
 Licencia.  Cada licenciatario es tratado como "usted". Los 
