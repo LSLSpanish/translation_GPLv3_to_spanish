@@ -1,0 +1,39 @@
+  5. Transmisión de Versiones Modificadas de la Fuente.
+
+  Usted puede transmitir una obra basada en el Programa, o las 
+modificaciones para generarla a partir del Programa, en la forma de 
+código fuente bajo los términos de la sección 4, suponiendo que además 
+cumpla las siguientes condiciones:
+
+    a) La obra debe incluir avisos destacados indicando que usted la ha 
+    modificado y dando una fecha pertinente.
+
+    b) La obra debe incluir avisos destacados indicando que está 
+    liberada bajo esta Licencia y cualquier otra condición añadida bajo 
+    la sección 7.  Este requerimiento modifica los requerimientos de la 
+    sección 4 de "mantener intactos todos los avisos".
+
+    c) Usted debe licenciar la obra entera, como una unidad, bajo esta 
+    Licencia para cualquier persona que esté posesión de una copia.  
+    Esta Licencia se aplicará por consiguiente, junto con cualquier 
+    término aplicable adicional de la sección 7, a la totalidad de la 
+    obra, y a todos sus componentes, independientemente de como estén 
+    empaquetados. Esta Licencia no da permiso para licenciar la obra de 
+    otra forma, pero no invalida esos permisos si usted los ha recibido 
+    de forma separada.
+
+    d) Si la obra tiene interfaces de usuario interactivas, cada una 
+    debe mostrar los Avisos Legales Apropiados; however, si el Programa 
+    tiene interfaces interactivas que no muestren los Avisos Legales 
+    Apropiados, tampoco es necesario que su obra lo haga.
+
+  Una recopilación de una obra amparada con otras obras separadas e 
+independientes, que no son por su naturaleza extensiones de la obra 
+amparada, y que no se combinan con ella con el fin de formar un programa 
+más grande, en o sobre un volumen de un medio de almacenamiento o 
+distribución, es llamado un "agregado" si la recopilación y su 
+resultante copyright no son usados para limitar el acceso o los 
+derechos legales de los usuarios de la recopilación más allá de lo que 
+las obras individuales permitan.  La inclusión de una obra amparada en 
+un agregado no provoca que esta Licencia se aplique a los otros 
+componentes del agregado.
