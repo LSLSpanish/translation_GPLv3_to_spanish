@@ -6,3 +6,5 @@ covered work = obra cubierta
 to propagate = propagar
 to convey = transmitir
 Appropriate Legal Notices = Avisos Legales Apropiados
+compilation = recopilación
+aggregate = agregado ("Conjunto de cosas homogéneas que se consideran formando un cuerpo." según la RAE)
