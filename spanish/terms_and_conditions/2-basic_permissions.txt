@@ -1,0 +1,7 @@
+2. Permisos básicos.
+
+Todos los derechos concedidos bajo esta licencia están garantizados durante el plazo de copyright del Programa, y son irrevocables siempre que se cumplan las condiciones establecidas. Esta Licencia afirma explícitamente su ilimitado permiso para ejecutar el Programa sin modificaciones. La salida de la ejecución de un programa cubierto está cubierta por esta Licencia solo si la salida, dado su contenido, constituye un trabajo cubierto. Esta Licencia reconoce los derechos de autor de uso razonable u otro equivalente, según lo establecido por la ley de copyright.
+
+Usted podrá construir, ejecutar y difundir trabajos amparados que no transmita, sin condición alguna, siempre y cuando no tenga otra licencia vigente. Podrá distribuir trabajos amparados a terceros con el único propósito de que ellos hagan modificaciones exclusivas para usted, o proporcionarle ayuda para ejecutar estos programas, siempre y cuando se cumpla con los términos de esta Licencia de distribución de todo el material que usted no tiene el copyright. Aquellos que realicen o ejecuten los programas amparados por usted, deben hacerse exclusivamente en su nombre, bajo su dirección y control, en los términos que le prohíban realizar ninguna copia de tu trabajo con copyright fuera de su relación con usted.
+
+La distribución bajo otras circunstancias se permite únicamente bajo las condiciones expuestas a  continuación. No está permitido sublicenciar, la sección 10 hace que sea innecesario.
