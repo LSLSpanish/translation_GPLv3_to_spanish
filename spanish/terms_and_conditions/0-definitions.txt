@@ -20,7 +20,7 @@ distintos de los de hacer una copia exacta.  La obra resultante es
 llamada "versión modificada" de la obra previa o una obra "basada en" 
 la obra previa.
 
-  Una "obra cubierta" significa o el Programa sin modificar o una obra 
+  Una "obra amparada" significa o el Programa sin modificar o una obra 
 basada en el Programa.
 
   "Propagar" una obra significa hacer cualquier cosa con ella que, sin
