@@ -101,4 +101,4 @@ de la red.
 proporcionada, de acuerdo con esta sección debe estar en un formato que 
 sea documentado públicamente (y con una implementación disponible para 
 el público en formato de código fuente), y no deben necesitar 
-contraseñas o claves especiales para la extracción, lectura o copia.
+contraseñas o claves particulares para la extracción, lectura o copia.
