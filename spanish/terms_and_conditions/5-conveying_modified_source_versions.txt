@@ -23,9 +23,9 @@ cumpla las siguientes condiciones:
     de forma separada.
 
     d) Si la obra tiene interfaces de usuario interactivas, cada una 
-    debe mostrar los Avisos Legales Apropiados; however, si el Programa 
-    tiene interfaces interactivas que no muestren los Avisos Legales 
-    Apropiados, tampoco es necesario que su obra lo haga.
+    debe mostrar los Avisos Legales Apropiados; sin embargo, si el 
+    Programa tiene interfaces interactivas que no muestren los Avisos 
+    Legales Apropiados, tampoco es necesario que su obra lo haga.
 
   Una recopilación de una obra amparada con otras obras separadas e 
 independientes, que no son por su naturaleza extensiones de la obra 
