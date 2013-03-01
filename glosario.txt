@@ -8,4 +8,5 @@ to convey = transmitir
 Appropriate Legal Notices = Avisos Legales Apropiados
 compilation = recopilación
 aggregate = agregado ("Conjunto de cosas homogéneas que se consideran formando un cuerpo." según la RAE)
-copyright holder = titular del copyright (lo pongo para homogeneizar todo el texto, por si aparece más veces)
+copyright holder = titular de los derechos de autor (lo pongo para homogeneizar todo el texto, por si aparece más veces)
+proxy = representante
