@@ -1,0 +1,66 @@
+7. Términos adicionales.
+
+  "Permisos adicionales" son términos que se añaden a los términos de esta
+Licencia haciendo excepciones de una o más de una de sus condiciones. Los
+permisos adicionales que son aplicables al Programa entero deberán como si
+estuvieran incluidos en esta Licencia, en la medida bajo la ley aplicable.
+Si los permisos adicionales sólo son aplicables a parte del Programa, esa
+parte debe ser usada separadamente bajo esos permisos, pero el Programa
+completo queda bajo la autoridad de esta Licencia sin considerar los
+permisos adicionales.
+
+  Cuando se distribuye una copia de una obra derivada, se puede
+opcionalmente quitar cualesqueira permisos adicionales de esa copia, o de
+cualquier parte de ella. (Los permisos adiconales deben ser escritos para
+requerir su propia eliminación bajo ciertas casos cuando se modifica la
+obra. Se pueden colocar permisos adicionales en material, añadidos a una
+obra derivada, para los cuáles se establecen o se pueden establecer los
+permisos de copyright apropiados.
+
+  No obstante cualquier otra disposición de esta Licencia, para el material
+que se añada a una obra derivada, se pueden (si está autorizado por los
+titulares del copyright del material) añadir los términos de esta Licencia
+con los siguientes términos:
+
+    a) Ausencia de garantía o limitación de responsabilidad diferente de 
+    los términos de los artículos 15 y 16 de esta Licencia, o
+
+    b) Exigir la preservación de determinados avisos legales razonables o
+    atribuciones de autor en ese material o en los Avisos Legales Apropiados
+    mostrados por los obras que lo contengan, o
+
+    c) Prohibir la tergiversación del origen de ese material, o requerir que
+    las versiones modificadas del material se marquen de maneras razonables
+    como diferentes de la versión original, o
+
+    d) Limitar el uso con fines publicitarios de los nombres de los 
+    licenciantes o autores del material, o
+
+    e) Negarse a ofrecer derechos afectados por leyes de registro para el
+    uso de alguno nombres comerciales, marcas registradas o marcas de
+    servicio, o
+
+    f) Exigir la compensación de los licenciantes y autores de ese material
+    por cualquiera que distribuya el material (o versiones modificadas del
+    mismo) estableciendo obligaciones contractuales de responsabilidad sobre
+    el destinatario, por cualquier responsabilidad que estas obligaciones 
+    contractuales impongan directamente sobre los licenciantes y autores.
+
+  Todos los demás términos adicionales no-permisivos son consideradas 
+"restricciones extra" en el sentido del artículo 10. Si el Programa, tal
+cual se recibió, o cualquier parte del mismo, contiene un aviso indicando
+que se encuentra cubierto por esta Licencia junto con un término que es otra
+restricción, se puede quitar ese término. Si un documento de licencia
+contiene una restricción adicional, pero permite relicenciar o redistribuir
+bajo esta Licencia, se puede añadir a un material de la obra derivada bajo
+los términos de ese documento de licencia, a condición de que dicha
+restricción no sobreviva el relicenciamiento o redistribución.
+
+  Si se añaden términos a una obra derivada de acuerdo con esta sección, se
+debe colocar, en los archivos fuente involucrados, una declaración de los
+términos adicionales aplicables a esos archivos, o un aviso indicando dónde
+encontrar los términos aplicables.
+
+  Las términos adicionales, permisivs o no-permisivos, deben aparecer en
+forma de una licencia escrita por separado, o figurar como excepciones; los
+requisitos anteriores son aplicables en cualquier forma.
