@@ -1,7 +1,25 @@
-2. Permisos básicos.
+  2. Permisos básicos.
 
-Todos los derechos concedidos bajo esta licencia están garantizados durante el plazo de copyright del Programa, y son irrevocables siempre que se cumplan las condiciones establecidas. Esta Licencia afirma explícitamente su ilimitado permiso para ejecutar el Programa sin modificaciones. La salida de la ejecución de una obra amparada está amparada por esta Licencia solo si la salida, dado su contenido, constituye una obra amparada. Esta Licencia reconoce los derechos de autor de uso razonable u otro equivalente, según lo establecido por la ley de copyright.
+  Todos los derechos concedidos bajo esta licencia están garantizados
+durante el plazo de copyright del Programa, y son irrevocables siempre que
+se cumplan las condiciones establecidas. Esta Licencia afirma explícitamente
+su ilimitado permiso para ejecutar el Programa sin modificaciones. La salida
+de la ejecución de una obra amparada está amparada por esta Licencia solo si
+la salida, dado su contenido, constituye una obra amparada. Esta Licencia
+reconoce los derechos de autor de uso razonable u otro equivalente, según lo
+establecido por la ley de copyright.
 
-Usted podrá construir, ejecutar y difundir obras amparadas que no transmita, sin condición alguna, siempre y cuando no tenga otra licencia vigente. Podrá distribuir obras amparadas a terceros con el único propósito de que ellos hagan modificaciones exclusivas para usted, o proporcionarle ayuda para ejecutar estas obras, siempre y cuando se cumpla con los términos de esta Licencia de distribución en todo el material del que usted no tiene el copyright. Aquellos que realicen o ejecuten las obras amparados por usted, deben hacerse exclusivamente en su nombre, bajo su dirección y control, en los términos que le prohíban realizar ninguna copia de tu trabajo con copyright fuera de su relación con usted.
+  Usted podrá construir, ejecutar y difundir obras amparadas que no
+transmita, sin condición alguna, siempre y cuando no tenga otra licencia
+vigente. Podrá distribuir obras amparadas a terceros con el único propósito
+de que ellos hagan modificaciones exclusivas para usted, o proporcionarle
+ayuda para ejecutar estas obras, siempre y cuando se cumpla con los términos
+de esta Licencia de distribución en todo el material del que usted no tiene
+el copyright. Aquellos que realicen o ejecuten las obras amparados por
+usted, deben hacerse exclusivamente en su nombre, bajo su dirección y
+control, en los términos que le prohíban realizar ninguna copia de tu
+trabajo con copyright fuera de su relación con usted.
 
-La distribución bajo otras circunstancias se permite únicamente bajo las condiciones expuestas a  continuación. No está permitido sublicenciar, la sección 10 hace que sea innecesario.
+  La distribución bajo otras circunstancias se permite únicamente bajo las
+condiciones expuestas a continuación. No está permitido sublicenciar, la
+sección 10 hace que sea innecesario.
