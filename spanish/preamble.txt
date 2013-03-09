@@ -5,10 +5,10 @@
 
   Esta es una traducción no oficial al español de la GNU General Public 
 License. No ha sido publicada por la Free Software Foundation, y no 
-establece legalmente las condiciones de distribución para el software 
-que usa la GNU GPL—estas condiciones se establecen solamente por el 
-texto original, en inglés, de la GNU GPL. Sin embargo, esperamos que 
-esta traducción ayude a los hispanohablantes a entender mejor la GNU GPL. 
+establece legalmente las condiciones de distribución para el software que 
+usa la GNU GPL—estas condiciones se establecen solamente por el texto 
+original, en inglés, de la GNU GPL. Sin embargo, esperamos que esta 
+traducción ayude a los hispanohablantes a entender mejor la GNU GPL. 
 
   This is an unofficial translation of the GNU General Public License 
 into Spanish. It was not published by the Free Software Foundation, and 
@@ -32,32 +32,31 @@ documento, pero no se permite su modificación.
 
   Las licencias para la mayoría del software y otras obras de carácter 
 práctico están diseñadas para privarle de la libertad de compartir y 
-modificar las obras. Por el contrario, la Licencia Pública General de 
-GNU pretende garantizar su libertad de compartir y modificar todas las 
-versiones de un programa –para cerciorar que permanece como software 
-libre para todos sus usuarios. Nosotros, la Free Software Foundation, 
-usamos la Licencia Pública General de GNU para la mayoría de nuestro 
-software; la cual se aplica también a cualquier otra obra publicada de 
-esta forma por parte de sus autores. Usted también puede aplicarla a sus 
-programas.
+modificar las obras. Por el contrario, la Licencia Pública General de GNU 
+pretende garantizar su libertad de compartir y modificar todas las 
+versiones de un programa –para cerciorar que permanece como software libre 
+para todos sus usuarios. Nosotros, la Free Software Foundation, usamos la 
+Licencia Pública General de GNU para la mayoría de nuestro software; la 
+cual se aplica también a cualquier otra obra publicada de esta forma por 
+parte de sus autores. Usted también puede aplicarla a sus programas.
 
-  Cuando hablamos de software libre, nos referimos a libertad, no a 
-precio. Nuestras Licencias Públicas Generales están diseñadas para 
-garantizar su libertad de distribuir copias de software libre (y cobrar 
-por ellas si lo desea), recibir el código fuente o poder obtenerlo si 
-quiere, modificar el software o usar fragmentos de él en sus nuevos 
-programas, y que sepa que puede hacer esas cosas.
+  Cuando hablamos de software libre, nos referimos a libertad, no a precio. 
+Nuestras Licencias Públicas Generales están diseñadas para garantizar su 
+libertad de distribuir copias de software libre (y cobrar por ellas si lo 
+desea), recibir el código fuente o poder obtenerlo si quiere, modificar el 
+software o usar fragmentos de él en sus nuevos programas, y que sepa que 
+puede hacer esas cosas.
 
   Para proteger sus derechos, necesitamos impedir que otros le denieguen 
-esos derechos o que le pidan que renuncie a ellos. Por ello, tiene 
-ciertas responsabilidades si distribuye copias del software, o si lo 
-modifica: la responsabilidad de respetar la libertad de otros.
+esos derechos o que le pidan que renuncie a ellos. Por ello, tiene ciertas 
+responsabilidades si distribuye copias del software, o si lo modifica: la 
+responsabilidad de respetar la libertad de otros.
 
-  Por ejemplo, si distribuye copias de un programa, bien sea gratis o 
-por una tasa, debe transferirles a los que lo reciban las mismas 
-libertades que usted recibió.  Debe asegurarse que ellos, también, 
-reciben o pueden obtener el código fuente. Y debe mostrarles estos 
-términos para que ellos puedan conocer sus derechos.
+  Por ejemplo, si distribuye copias de un programa, bien sea gratis o por 
+una tasa, debe transferirles a los que lo reciban las mismas libertades que 
+usted recibió.  Debe asegurarse que ellos, también, reciben o pueden 
+obtener el código fuente. Y debe mostrarles estos términos para que ellos 
+puedan conocer sus derechos.
 
   Los desarrolladores que usan la GNU GPL protegen tus derechos con dos 
 pasos:
@@ -66,10 +65,10 @@ pasos:
 distribuirlo y/o modificarlo.
 
   Para la protección de autores y desarrolladores, la GPL explica 
-claramente que no hay garantía para este software libre. Por el bien 
-tanto de usuarios como de autores, la GPL requiere que las versiones 
-modificadas sean marcadas como con cambios, de forma que sus problemas 
-no puedan ser atribuidos de forma errónea a autores de versiones previas.
+claramente que no hay garantía para este software libre. Por el bien tanto 
+de usuarios como de autores, la GPL requiere que las versiones modificadas 
+sean marcadas como con cambios, de forma que sus problemas no puedan ser 
+atribuidos de forma errónea a autores de versiones previas.
 
   Algunos dispositivos están diseñados para denegar a los usuarios el 
 acceso para instalar o ejecutar versiones modificadas del software en su 
@@ -86,11 +85,11 @@ los usuarios.
 
   Por último, todo programa es amenazado constantemente por las patentes 
 de software. Los Estados no deberían permitir patentes que restringen el 
-desarrollo y el uso de software en ordenadores de propósito general, 
-pero en aquellos que lo hacen, deseamos evitar el peligro particular de 
-que las patentes aplicadas a un programa libre podrían convertirlo de 
-forma efectiva en propietario. Para prevenir esto, la GPL garantiza que 
-las patentes no pueden ser utilizadas para hacer que el programa no sea 
+desarrollo y el uso de software en ordenadores de propósito general, pero 
+en aquellos que lo hacen, deseamos evitar el peligro particular de que las 
+patentes aplicadas a un programa libre podrían convertirlo de forma 
+efectiva en propietario. Para prevenir esto, la GPL garantiza que las 
+patentes no pueden ser utilizadas para hacer que el programa no sea 
 libre.
 
   Los términos exactos y las condiciones para la copia, distribución y 
