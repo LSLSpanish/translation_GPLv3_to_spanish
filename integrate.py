@@ -21,8 +21,6 @@
  """
 
 import sys, os, re
-# reload(sys)
-# sys.setdefaultencoding('utf-8')
 
 def usage():
 	print 'Method of use:'
