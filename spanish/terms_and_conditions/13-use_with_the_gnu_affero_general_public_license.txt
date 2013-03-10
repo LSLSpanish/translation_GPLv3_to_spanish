@@ -1,0 +1,10 @@
+  13. Utilización con la Licencia Pública General Affero de GNU.
+
+  A pesar de cualquier otra disposición de esta Licencia, usted tiene
+permiso para enlazar o combinar cualquier obra amparada con una obra 
+licenciada bajo la Licencia Pública General Affero de GNU en una única obra 
+combinada, y para transmitir la obra resultante. Los términos de esta 
+Licencia continuarán aplicándose a la parte que es la obra amparada, pero 
+los requisitos particulares de la Licencia Pública General Affero de GNU, 
+sección 13, concernientes a la interacción a través de una red se aplicarán 
+a la combinación como tal.

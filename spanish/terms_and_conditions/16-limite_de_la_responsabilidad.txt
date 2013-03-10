@@ -1,0 +1,12 @@
+16. Limitación de la responsabilidad.
+
+En ningún caso, expcepto si se es requerido por la aplicación de alguna ley 
+o alguna aceptación escrita, podrá el poseedor del Copyright, o algún 
+tercero que modifique y/o comunique el programa como se permite arriba, 
+podrá usted reclamar su responsabilidad por daños, incluyendo daños 
+generales, especiales, incidentales o daños consecuencia del uso o 
+prohibición de uso del programa (incluyendo, pero no limitándose a: la 
+pérdida de información o información interpretada incorrectamente, o 
+pérdidas producidas por usted o terceras personas, o fallos del programa al 
+ser operado junto a otros programas), incluso si dicho poseedor u otro 
+tercero ha sido avisado de la posibilidad de dicho daño.
