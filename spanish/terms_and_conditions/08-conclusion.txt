@@ -1,10 +1,10 @@
   8. Conclusiones.
   
-  Usted no podrá distribuir o modificar una obra amparada salvo lo
-expresamente permitido por esta Licencia. Cualquier intento diferente de
-distribución o modificación será considerado nulo y automáticamente se
-anularán sus derechos bajo esta Licencia (incluyendo las licencias de
-patentes concedidas bajo el tercer párrafo de la sección 11).
+  Usted no podrá difundir o modificar una obra amparada salvo lo expresamente 
+permitido por esta Licencia. Cualquier intento diferente de difusión o 
+modificación será considerado nulo y automáticamente se anularán sus derechos 
+bajo esta Licencia (incluyendo las licencias de patentes concedidas bajo el 
+tercer párrafo de la sección 11).
 
   Sin embargo, si usted deja de violar esta Licencia, entonces su licencia
 desde un poseedor del copyright correspondiente será restituida (a)
