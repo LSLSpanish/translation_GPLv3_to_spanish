@@ -2,23 +2,23 @@
 
   Un "colaborador" es un titular de los derechos de autor ("copyright") que 
 autoriza, bajo los términos de la presente Licencia, el uso del Programa o 
-una obra en el que se base el Programa. La obra así licenciada se denomina 
+una obra en la que se base el Programa. La obra así licenciada se denomina 
 "versión en colaboración" del colaborador.
 
   Las "demandas de patente esenciales" del colaborador son todas las 
 reivindicaciones de patentes poseídas o controladas por el colaborador, ya 
 se encuentren adquiridas o hayan sido adquiridas con porterioridad, que sean 
 infringidas de alguna manera, permitidas por esta Licencia, al hacer, usar 
-o vender la versión en colaboración, pero sin incluir demandas que sólo sean 
+o vender la versión en colaboración, pero sin incluir demandas que solo sean 
 infringidas como consecuencia de modificaciones posteriores de la versión 
 en colaboración. Para los propósitos de esta definición, "control" incluye 
 el derecho de conceder sublicencias de patente de forma consistente con los 
 requisitos establecidos en la presente Licencia.
 
   Cada colaborador le concede una licencia de la patente no-exclusiva, 
-global y libre de derechos bajo las demandas de patente esenciales del 
+global y libre de regalías bajo las demandas de patente esenciales del 
 colaborador, para hacer, usar, modificar, vender, ofrecer para venta, 
-importar y otras formas de ejecución, modificación y propagación del 
+importar y otras formas de ejecución, modificación y difusión del 
 contenido de la versión en colaboración.
 
   En los siguientes tres párrafos, una "licencia de patente" se define como 
@@ -28,7 +28,7 @@ patente o acuerdos para no imponer demandas por infracción de patente).
 "Conceder" una licencias de patente de este tipo a un tercero significa 
 hacer tal tipo de acuerdo o compromiso que no imponga una patente al tercero.
 
-  Si usted transmitee una obra amparada, conociendo que está amparada por 
+  Si usted transmite una obra amparada, conociendo que está amparada por 
 una licencia de patente, y las Fuentes Correspondientes no se encuentran 
 disponibles de forma pública para su copia, sin cargo alguno y bajo los 
 términos de esta Licencia, ya sea a través de un servidor público o mediante 
@@ -43,23 +43,23 @@ por sus destinatarios en un país, infringiría una o más patentes existentes
 en ese país que usted considera válidas por algún motivo.
 
   Si en virtud de o en conexión con alguna transacción o acuerdo, usted 
-transmite, o propaga con fines de distribución, una obra amparada, y 
+transmite, o difunde con fines de distribución, una obra amparada, y 
 concede una licencia de patente para algún tercero que reciba la obra 
-amparada, y les autorice a usar, transmitir, modificar o propagar una copia 
+amparada, y les autorice a usar, transmitir, modificar o difundir una copia 
 específica de la obra amparada, entonces la licencia de patente que usted 
 otorgue se extiende automáticamente a todos los receptores de la obra 
 amparada y cualquier obra basada en ella.
 
   Una licencia de patente es "discriminatoria" si no incluye dentro de su 
-ámbito de cobertura, prohíbe el ejercicio de, o está condicionada a no 
+ámbito de cobertura, prohibe el ejercicio de, o está condicionada a no 
 ejercitar uno o más de los derechos que están específicamente otorgados por 
 esta Licencia. Usted no debe transmitir una obra amparada si está implicado 
 en un acuerdo con terceros que esté relacionado con el negocio de la 
-distribución de software, en el que usted haga pagos al tercero relacionados 
+distribución de software, en el que usted haga pagos a terceros relacionados 
 con su actividad de distribución de la obra, bajo el que terceros conceden, 
 a cualquier receptor de la obra amparada, una licencia de patente 
 discriminatoria (a) en relación con las copias de la obra amparada 
-transmitidas por usted (o copias hechas a partir de éstas), o 
+transmitidas por usted (o copias hechas a partir de estas), o 
 (b) principalmente para y en relación con productos específicos o 
 compilaciones que contengan la obra amparada, a menos que usted forme parte 
 del acuerdo, o que esa licencia de patente fuese concedida antes del 28 de 

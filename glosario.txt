@@ -11,3 +11,4 @@ aggregate = agregado ("Conjunto de cosas homogéneas que se consideran formando 
 copyright = derechos de autor ("copyright")
 copyright holder = titular de los derechos de autor ("copyright") (lo pongo para homogeneizar todo el texto, por si aparece más veces)
 proxy = representante
+royalty = regalía
