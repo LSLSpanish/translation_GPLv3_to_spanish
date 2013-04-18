@@ -2,10 +2,10 @@
 
   Si se le imponen condiciones (bien sea por orden judicial, acuerdo o de 
 otra manera) que contradicen las condiciones de esta Licencia, estas no le 
-eximen de las condiciones de esta Licencia. Si usted no puede distribuir 
+eximen de las condiciones de esta Licencia. Si usted no puede transmitir 
 una obra amparada de forma que pueda satisfacer simultáneamente sus 
 obligaciones bajo esta Licencia y cualesquiera otras obligaciones 
-pertinentes, entonces, como consecuencia, usted no puede distribuirla. Por 
+pertinentes, entonces, como consecuencia, usted no puede transmitirla. Por 
 ejemplo, si usted está de acuerdo con los términos que le obligan a cobrar 
 una regalía por la transmisión a aquellos a los que transmite el Programa, 
 la única forma en la que usted podría satisfacer tanto esos términos como 
