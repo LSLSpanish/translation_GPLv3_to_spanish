@@ -1,8 +1,8 @@
 Cómo Aplicar Estos Términos a Sus Nuevos Programas
 
   Si desarrolla un nuevo programa, y quiere que sea lo más usado posible por
-el público, la mejor manera de conseguirlo es hacerlo software para que
-cualquiera pueda redistribuirlo y modificarlo bajo estos términos.
+el público, la mejor manera de conseguirlo es hacerlo software libre para 
+que cualquiera pueda redistribuirlo y modificarlo bajo estos términos.
 
   Para ello, añada la siguiente nota al programa. Lo más seguro es añadirla
 al principio de cada fichero fuente para declarar más efectivamente la
