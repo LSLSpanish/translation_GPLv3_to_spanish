@@ -1,4 +1,4 @@
-  2. Permisos básicos.
+  2. Permisos Básicos.
 
   Todos los derechos concedidos bajo esta Licencia se conceden durante la 
 duración de los derechos de autor (``copyright'') del Programa, y son 

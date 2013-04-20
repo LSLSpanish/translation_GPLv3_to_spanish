@@ -2,7 +2,7 @@
 
   La Free Software Foundation puede publicar versiones revisadas y/o nuevas 
 de la Licencia General Pública de GNU de vez en cuando. Cada nueva versión 
-será similar en espíritu de la versión actual, pero puede diferir en 
+será similar en espíritu a la versión actual, pero puede diferir en 
 detalles para abordar nuevos problemas o preocupaciones.
 
   Cada versión recibe un número de versión distintivo. Si el Programa 

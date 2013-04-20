@@ -77,7 +77,7 @@ o específicamete para usar en, un Producto de Usuario, y la transmisión
 tiene lugar como parte de una transacción en la cual el derecho de posesión
 y uso de un Producto de Usuario es transferido a un destinatario en
 perpetuidad o por un periodo establecido (independientemente de cómo se
-caracterice la operación), la Fuente Correspondiente tranmitida bajo esta
+caracterice la operación), la Fuente Correspondiente transmitida bajo esta
 sección debe estar acompañada de la Información de Instalación. Pero este
 requisito no se aplica si ni usted ni ningún tercero tiene la capacidad de
 instalar código objeto modificado en el Producto de Usuario (por ejemplo, la

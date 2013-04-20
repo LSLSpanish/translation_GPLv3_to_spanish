@@ -1,4 +1,4 @@
-  1. Código fuente.
+  1. Código Fuente.
   
   El "código fuente" de una obra significa la forma preferida de trabajo
 para hacerle modificaciones. "Código objeto" es cualquier forma no-fuente de
@@ -29,11 +29,11 @@ incluye la obra del Sistema de Bibliotecas, o herramientas de propósito
 general o programas de libre disponibilidad general los cuales son usados
 sin modificaciones para la realización de dichas actividades, pero que no
 son parte de la obra. Por ejemplo, la Fuente Correspondiente incluye
-ficheros de definición de interfaces asociados con los ficheros fuente para
-la obra, y el código fuente para bibliotecas compartidas y subprogramas
-enlazados dinámicamente para los que la obra está específicamente diseñado
-para requerir, tales como comunicación de datos intrínseca o flujo de
-control entre aquellos subprogramas y otras partes de la obra.
+ficheros de definición de interfaces asociados a los ficheros fuente para la
+obra, y el código fuente para bibliotecas compartidas y subprogramas enlazados
+dinámicamente para los que la obra está específicamente diseñado para
+requerir, tales como comunicación de datos intrínseca o flujo de control entre
+aquellos subprogramas y otras partes de la obra.
 
   La Fuente Correspondiente es necesario que no incluya nada que los
 usuarios puedan regenerar automáticamente desde otras partes de la Fuente

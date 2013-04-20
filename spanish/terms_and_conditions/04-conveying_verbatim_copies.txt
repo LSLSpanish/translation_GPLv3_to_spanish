@@ -1,4 +1,4 @@
-  4. Distribución de copias literales.
+  4. Distribución de Copias Literales.
 
   Usted podrá distribuir copias literales del código fuente del Programa tal
 cual lo ha recibido, por cualquier medio, siempre que publique visible y

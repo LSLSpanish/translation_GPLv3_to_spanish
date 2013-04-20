@@ -1,4 +1,4 @@
-7. Términos adicionales.
+7. Términos Adicionales.
 
   "Permisos adicionales" son términos que se añaden a los términos de esta
 Licencia haciendo excepciones de una o más de una de sus condiciones. Los
@@ -12,7 +12,7 @@ permisos adicionales.
   Cuando se distribuye una copia de una obra derivada, se puede
 opcionalmente quitar cualesqueira permisos adicionales de esa copia, o de
 cualquier parte de ella. (Los permisos adiconales deben ser escritos para
-requerir su propia eliminación bajo ciertas casos cuando se modifica la
+requerir su propia eliminación bajo ciertos casos cuando se modifica la
 obra. Se pueden colocar permisos adicionales en material, añadidos a una
 obra derivada, para los cuáles se establecen o se pueden establecer los
 permisos de copyright apropiados.

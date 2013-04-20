@@ -7,7 +7,7 @@ una obra en la que se base el Programa. La obra así licenciada se denomina
 
   Las "demandas de patente esenciales" del colaborador son todas las 
 reivindicaciones de patentes poseídas o controladas por el colaborador, ya 
-se encuentren adquiridas o hayan sido adquiridas con porterioridad, que sean 
+se encuentren adquiridas o hayan sido adquiridas con posterioridad, que sean 
 infringidas de alguna manera, permitidas por esta Licencia, al hacer, usar 
 o vender la versión en colaboración, pero sin incluir demandas que solo sean 
 infringidas como consecuencia de modificaciones posteriores de la versión 

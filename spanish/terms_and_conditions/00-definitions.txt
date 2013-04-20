@@ -2,8 +2,8 @@ TÉRMINOS Y CONDICIONES
 
   0. Definiciones.
 
-  "Esta Licencia" se refiere a la versión 3 a la Licencia Pública  General
-de GNU.
+  "Esta Licencia" se refiere a la versión 3 de la Licencia Pública General de
+GNU.
 
   "Derechos de autor ("copyright")" también se refiere a las leyes similares 
 a la de derechos de autor ("copyright") que se apliquen a otro tipo de obras, 

@@ -2,9 +2,9 @@
 
 Si el descargo de responsabilidad de garantía y el límite de responsabilidad 
 proporcionado anteriormente no tiene efectos legales de acuerdo a sus 
-términos, el tribunal de revisión debe aplicar la ley local que se más 
-se asemeje a una renuncia absoluta de la responsabilidad civil concerniente 
-al Programa, a menos que una garantía o una asunción de responsabilidad 
-acompañe a la copia del Programa junto a un pago de honorarios.
+términos, el tribunal de revisión debe aplicar la ley local que más se asemeje
+a una renuncia absoluta de la responsabilidad civil concerniente al Programa,
+a menos que una garantía o una asunción de responsabilidad acompañe a la copia
+del Programa junto a un pago de honorarios.
 
 Fin de los términos y condiciones.
