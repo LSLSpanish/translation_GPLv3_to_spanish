@@ -2,7 +2,7 @@
 
   Usted puede transmitir una obra basada en el Programa, o las
 modificaciones para generarla a partir del Programa, en la forma de código
-fuente bajo los términos de la sección 4, suponiendo que además cumpla las
+fuente bajo los términos de la sección 4, siempre que además usted cumpla las
 siguientes condiciones:
 
     a) La obra debe incluir avisos destacados indicando que usted la ha 
@@ -17,7 +17,7 @@ siguientes condiciones:
     Licencia para cualquier persona que esté en posesión de una copia. Esta
     Licencia se aplicará por consiguiente, junto con cualquier término
     aplicable adicional de la sección 7, a la totalidad de la obra, y a
-    todos sus componentes, independientemente de como estén empaquetados.
+    todos sus componentes, independientemente de cómo estén empaquetados.
     Esta Licencia no da permiso para licenciar la obra de otra forma, pero
     no invalida esos permisos si usted los ha recibido de forma separada.
 
@@ -30,8 +30,8 @@ siguientes condiciones:
 independientes, que no son por su naturaleza extensiones de la obra
 amparada, y que no se combinan con ella con el fin de formar un programa más
 grande, en o sobre un volumen de un medio de almacenamiento o distribución,
-es llamado un "agregado" si la recopilación y su resultante copyright no son
-usados para limitar el acceso o los derechos legales de los usuarios de la
-recopilación más allá de lo que las obras individuales permitan. La
-inclusión de una obra amparada en un agregado no provoca que esta Licencia
-se aplique a los otros componentes del agregado.
+es llamado un "agregado" si la recopilación y su resultante derecho de autor
+("copyright") no son usados para limitar el acceso o los derechos legales de
+los usuarios de la recopilación más allá de lo que las obras individuales
+permitan. La inclusión de una obra amparada en un agregado no provoca que esta
+Licencia se aplique a los otros componentes del agregado.

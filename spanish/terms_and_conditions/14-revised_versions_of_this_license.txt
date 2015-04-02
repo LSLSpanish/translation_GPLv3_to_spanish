@@ -14,7 +14,7 @@ no especifica un número de versión de la Licencia General Pública de GNU,
 usted puede escoger cualquier versión publicada por la Free Software 
 Foundation.
 
-  Si el Programa escifica que un representante puede decidir que versiones 
+  Si el Programa escifica que un representante puede decidir qué versiones 
 futuras de la Licencia General Pública de GNU pueden ser utilizadas, la 
 declaración pública del representante de aceptar una versión permanentemente 
 le autoriza a usted a elegir esa versión para el Programa.

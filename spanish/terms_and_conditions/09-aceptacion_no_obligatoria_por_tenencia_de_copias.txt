@@ -1,10 +1,10 @@
   9. Aceptación No Obligatoria por Tenencia de Copias.
   
   Usted no está obligado a aceptar esta Licencia por recibir o ejecutar una
-copia del Programa. La difusión de una obra amparada surgida solamente
-como una consecuencia del uso de una transmisión peer-to-peer para recibir
-una copia tampoco requiere aceptación. Sin embargo, esta Licencia solo le
-otorga permiso para difundir o modificar cualquier obra amparada. Estas
-acciones infringen el copyright si usted no acepta esta Licencia. Por lo
-tanto, al modificar o difundir una obra amparada, usted indica que acepta esta
-Licencia para poder hacerlo.
+copia del Programa. La difusión secundaria de una obra amparada surgida
+solamente como una consecuencia del uso de una transmisión peer-to-peer para
+recibir una copia igualmente no requiere aceptación. Sin embargo, nada más que
+esta Licencia le otorga permiso para difundir o modificar cualquier obra
+amparada. Estas acciones infringen los derechos de autor ("copyright") si usted
+no acepta esta Licencia. Por lo tanto, al modificar o difundir una obra
+amparada, usted indica que acepta esta Licencia para poder hacerlo.

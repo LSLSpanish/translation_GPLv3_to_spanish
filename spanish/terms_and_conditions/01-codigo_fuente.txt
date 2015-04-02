@@ -1,8 +1,8 @@
   1. Código Fuente.
   
   El "código fuente" de una obra significa la forma preferida de trabajo
-para hacerle modificaciones. "Código objeto" es cualquier forma no-fuente de
-una obra.
+para hacerle modificaciones. "Código objeto" es cualquier forma de la obra que
+no es código fuente.
 
   Una "Interfaz Estándar" significa una interfaz que es un estándar oficial
 definido por un cuerpo de estándares reconocido o, en el caso de interfaces
@@ -12,32 +12,31 @@ lenguaje.
 
   El "Sistema de Bibliotecas" de una obra ejecutable incluye cualquier cosa,
 diferente de la obra como un todo, que (a) está incluido en la forma normal
-de paquetizado de un Componente Importante, y (b) sirve solo para habilitar
-el uso de la obra con ese Componente Importante, o para implementar una
-Interfaz Estándar para la cual la implementación está disponible para el
-público en forma de código fuente. Un "Componente Importante", en este
-contexto, significa un componente esencial importante (kernel, sistema de
-ventanas, etcétera) del sistema operativo en concreto (si hubiese) en el
-cual el ejecutable funciona, o un compilador utilizado para producir la
-obra, o un intérprete de código objeto utilizado para hacerlo funcionar.
+de paquetizado de un Componente Principal, pero que no es parte de ese
+Componente Principal, y (b) sirve solo para habilitar el uso de la obra con ese
+Componente Principal, o para implementar una Interfaz Estándar para la cual la
+implementación está disponible para el público en forma de código fuente. Un
+"Componente Principal", en este contexto, significa un componente esencial
+(kernel, sistema de ventanas, etcétera) del sistema operativo en concreto (si
+hubiese) en el cual la obra ejecutable funciona, o un compilador utilizado para
+producir la obra, o un intérprete de código objeto utilizado para hacerlo
+funcionar.
 
-  La "Fuente Correspondiente" de una obra en forma de código objeto
-significa todo el código fuente necesario para generar, instalar, y (para
-una obra ejecutable) hacer funcionar el código objeto y modificar la obra,
-incluyendo scripts para controlar dichas actividades. Sin embargo, ello no
-incluye la obra del Sistema de Bibliotecas, o herramientas de propósito
-general o programas de libre disponibilidad general los cuales son usados
-sin modificaciones para la realización de dichas actividades, pero que no
-son parte de la obra. Por ejemplo, la Fuente Correspondiente incluye
-ficheros de definición de interfaces asociados a los ficheros fuente para la
-obra, y el código fuente para bibliotecas compartidas y subprogramas enlazados
-dinámicamente para los que la obra está específicamente diseñado para
-requerir, tales como comunicación de datos intrínseca o flujo de control entre
-aquellos subprogramas y otras partes de la obra.
+  La "Fuente Correspondiente" de una obra en forma de código objeto significa
+todo el código fuente necesario para generar, instalar, y (para una obra
+ejecutable) ejecutar el código objeto y modificar la obra, incluyendo scripts
+para controlar dichas actividades. Sin embargo, ello no incluye la obra del
+Sistema de Bibliotecas, o herramientas de propósito general o programas libres
+generalmente disponibles los cuales son usados sin modificaciones para la
+realización de dichas actividades, pero que no son parte de la obra. Por
+ejemplo, la Fuente Correspondiente incluye ficheros de definición de interfaces
+asociados a los ficheros fuente para la obra, y el código fuente para
+bibliotecas compartidas y subprogramas enlazados dinámicamente para los que la
+obra se requiere por diseño, tales como comunicación de datos intrínseca o flujo
+de control entre aquellos subprogramas y otras partes de la obra.
 
-  La Fuente Correspondiente es necesario que no incluya nada que los
-usuarios puedan regenerar automáticamente desde otras partes de la Fuente
-Correspondiente.
+  La Fuente Correspondiente no necesita incluir nada que los usuarios puedan
+regenerar automáticamente desde otras partes de la Fuente Correspondiente.
 
   La Fuente Correspondiente de una obra en forma de código fuente es la obra
-en sí.
+en sí misma.

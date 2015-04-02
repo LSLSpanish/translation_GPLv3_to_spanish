@@ -1,21 +1,21 @@
   10. Herencia Automática de Licencia para Destinatarios.
 
-  Cada vez que transmita una obra amparada, el destinatario recibirá 
+  Cada vez que transmita una obra amparada, el destinatario recibe 
 automáticamente una licencia de los licenciadores originales, para ejecutar, 
-modificar y difundir esa obra, sujeto a esa Licencia. Usted no será 
+modificar y difundir esa obra, sujeto a esta Licencia. Usted no será 
 responsable de asegurar el cumplimiento de esta Licencia por terceros.
 
-  Una "transacción de entidad" es una transacción que transfiere el control 
-de una organización, o sustancialmente todos los bienes de una, o subdivide 
-una organización, o fusiona organizaciones. Si la propagación de una obra 
-amparada surge de una transacción de entidad, cada parte en esa transacción 
-que reciba una copia de la obra también recibe todas las licencias de la 
-obra que la parte interesada tuviese o pudiese ofrecer según el párrafo 
-anterior, además del derecho a tomar posesión de las Fuentes Correspondientes 
-de la obra a través del predecesor interesado, si el predecesor tiene o 
-puede conseguirla con un esfuerzo razonable.
+  Una "transacción de entidad" es una transacción que transfiere el control de
+una organización, o sustancialmente todos los bienes de una, o subdivide una
+organización, o fusiona organizaciones. Si la difusión de una obra amparada
+surge de una transacción de entidad, cada parte en esa transacción que reciba
+una copia de la obra también recibe todas las licencias para la obra que la
+parte predecesora interesada tuviese o pudiese ofrecer según el párrafo
+anterior, además del derecho de posesión de las Fuentes Correspondientes de la
+obra a través del predecesor interesado, si el predecesor tiene o puede
+conseguirla con esfuerzos razonables.
 
-  Usted no podrá imponer ninguna restricción posterior en el ejercicio de 
+  Usted no puede imponer ninguna restricción adicional en el ejercicio de 
 los derechos otorgados o concedidos bajo esta Licencia. Por ejemplo, usted 
 no puede imponer un pago por licencia, derechos u otros cargos por el 
 ejercicio de los derechos otorgados bajo esta Licencia, y no puede iniciar 

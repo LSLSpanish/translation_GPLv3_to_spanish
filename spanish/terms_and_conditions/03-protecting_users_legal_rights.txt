@@ -2,15 +2,15 @@
 Antievasión.
 
   Ninguna obra amparada debe considerarse parte de una medida tecnológica 
-efectiva, a tenor de lo establecido en cualquier ley aplicable que cumpla 
-las obligaciones expresas en el artículo 11 del tratado de copyright WIPO 
-adoptado el 20 de diciembre de 1996, o leyes similares que prohiban o 
-restrinjan la evasión de tales medidas.
+efectiva bajo cualquier ley aplicable que cumpla las obligaciones bajo el
+artículo 11 del tratado de derechos de autor ("copyright") WIPO adoptado el 20
+de diciembre de 1996, o leyes similares que prohiban o restrinjan la evasión de
+tales medidas.
 
-  Cuando distribuya una obra amparada, renuncia a cualquier poder legal para
-prohibir la evasión de medidas tecnológicas mientras tales evasiones se
-realicen en ejercicio de derechos amparados por esta Licencia respecto a la
-obra amparada; además, usted renunciará a cualquier intención de limitar el
-uso o modificación del trabajo con el objetivo de imponer, contra el trabajo
-de los usuarios, sus derechos legales o los de terceros para prohibir la
-evasión de medidas tecnológicas.
+  Cuando usted transmite una obra amparada, usted renuncia a cualquier poder
+legal para prohibir la evasión de medidas tecnológicas mientras tal evasión sea
+realizada en ejercicio de los derechos bajo esta Licencia respecto a la obra
+amparada, y usted renuncia a cualquier intención de limitar el uso o
+modificación de la obra con el objetivo de imponer, contra el trabajo de los
+usuarios, sus derechos legales o los de terceros para prohibir la evasión de
+medidas tecnológicas.

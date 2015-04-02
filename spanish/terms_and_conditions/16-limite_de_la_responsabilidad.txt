@@ -1,12 +1,12 @@
 16. Limitación de la Responsabilidad.
 
-En ningún caso, expcepto si se es requerido por la aplicación de alguna ley 
-o alguna aceptación escrita, podrá el poseedor del Copyright, o algún 
-tercero que modifique y/o comunique el programa como se permite arriba, 
-podrá usted reclamar su responsabilidad por daños, incluyendo daños 
-generales, especiales, incidentales o daños consecuencia del uso o 
-prohibición de uso del programa (incluyendo, pero no limitándose a: la 
-pérdida de información o información interpretada incorrectamente, o 
-pérdidas producidas por usted o terceras personas, o fallos del programa al 
-ser operado junto a otros programas), incluso si dicho poseedor u otro 
-tercero ha sido avisado de la posibilidad de dicho daño.
+  EN NINGÚN CASO, EXCEPTO SI SE ES REQUERIDO POR LA APLICACIÓN DE ALGUNA LEY O
+ALGUNA ACEPTACIÓN ESCRITA, PODRÁ EL TITULAR DE LOS DERECHOS DE AUTOR
+("COPYRIGHT") O ALGÚN TERCERO QUE MODIFIQUE Y/O TRANSMITA EL PROGRAMA COMO SE
+PERMITE ARRIBA, SERÁ RESPONSABLE ANTE USTED POR DAÑOS, INCLUYENDO CUALQUIER
+DAÑO GENERAL, ESPECIAL, FORTUITO O RESULTANTE DEL USO O PROHIBICIÓN DE USO DEL
+PROGRAMA (INCLUYENDO PERO NO LIMITÁNDOSE A LA PÉRDIDA DE INFORMACIÓN O
+INFORMACIÓN INTERPRETADA INCORRECTAMENTE, O PÉRDIDAS PRODUCIDAS POR USTED O
+TERCERAS PERSONAS, O UN FALLO DEL PROGRAMA AL SER OPERADO CON OTROS PROGRAMAS),
+INCLUSO SI DICHO TITULAR U OTRA TERCERA PARTE HA SIDO AVISADO DE LA POSIBILIDAD
+DE DICHO DAÑO.

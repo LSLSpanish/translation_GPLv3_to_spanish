@@ -27,8 +27,7 @@ documento, pero no se permite su modificación.
   
                             Preámbulo
 
-  La Licencia Pública General de GNU es una licencia libre, bajo 
-"copyleft", para software y otro tipo de obras.
+  La Licencia Pública General de GNU es una licencia "copyleft" libre para software y otro tipo de obras.
 
   Las licencias para la mayoría del software y otras obras de carácter 
 práctico están diseñadas para privarle de la libertad de compartir y 
@@ -42,32 +41,31 @@ parte de sus autores. Usted también puede aplicarla a sus programas.
 
   Cuando hablamos de software libre, nos referimos a libertad, no a precio. 
 Nuestras Licencias Públicas Generales están diseñadas para garantizar su 
-libertad de distribuir copias de software libre (y cobrar por ellas si lo 
-desea), recibir el código fuente o poder obtenerlo si quiere, modificar el 
-software o usar fragmentos de él en sus nuevos programas, y que sepa que 
-puede hacer esas cosas.
+libertad de distribuir copias de software libre (y cobrar por ellas si lo
+desea), que usted reciba el código fuente o pueda obtenerlo si lo quiere, que
+usted pueda modificar el software o usar fragmentos de él en sus nuevos
+programas, y que sepa que puede hacer estas cosas.
 
   Para proteger sus derechos, necesitamos impedir que otros le denieguen 
-esos derechos o que le pidan que renuncie a ellos. Por ello, tiene ciertas 
-responsabilidades si distribuye copias del software, o si lo modifica: la 
-responsabilidad de respetar la libertad de otros.
+estos derechos o que le pidan que renuncie a ellos. Por ello, usted tiene
+ciertas responsabilidades si distribuye copias del software, o si lo modifica:
+la responsabilidad de respetar la libertad de otros.
 
   Por ejemplo, si distribuye copias de un programa, bien sea gratis o por 
 una tasa, debe transferirles a los que lo reciban las mismas libertades que 
-usted recibió.  Debe asegurarse que ellos, también, reciben o pueden 
+usted recibió. Debe asegurarse que ellos, también, reciben o pueden 
 obtener el código fuente. Y debe mostrarles estos términos para que ellos 
 puedan conocer sus derechos.
 
-  Los desarrolladores que usan la GNU GPL protegen tus derechos con dos 
-pasos:
-(1) haciendo valer el derecho de propiedad intelectual en el software, y 
-(2) ofreciéndole esta Licencia que le da el permiso legal para copiarlo, 
+  Los desarrolladores que usan la GNU GPL protegen tus derechos con dos pasos:
+(1) haciendo valer el derecho de propiedad intelectual en el software, y (2)
+ofreciéndole esta Licencia que le da el permiso legal para copiarlo,
 distribuirlo y/o modificarlo.
 
   Para la protección de autores y desarrolladores, la GPL explica 
 claramente que no hay garantía para este software libre. Por el bien tanto 
 de usuarios como de autores, la GPL requiere que las versiones modificadas 
-sean marcadas como con cambios, de forma que sus problemas no puedan ser 
+sean marcadas como cambiadas, de forma que sus problemas no puedan ser 
 atribuidos de forma errónea a autores de versiones previas.
 
   Algunos dispositivos están diseñados para denegar a los usuarios el 
@@ -77,7 +75,7 @@ fundamentalmente incompatible con el objetivo de proteger la libertad de
 los usuarios de modificar el software. El modelo sistemático de este 
 abuso ocurre en el ámbito de los productos de uso personal, lo cual es 
 precisamente donde es más inaceptable. Por consiguiente, hemos diseñado 
-esta versión de la GPL para prohibir la práctica de estos productos. Si 
+esta versión de la GPL para prohibir la práctica de esos productos. Si 
 estos problemas surgen de forma substancial en otro dominios, estamos 
 preparados para extender esta disposición a esos dominios en futuras 
 versiones de la GPL, así como sea necesario para proteger la libertad de 

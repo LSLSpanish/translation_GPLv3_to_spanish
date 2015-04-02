@@ -1,10 +1,10 @@
 Cómo Aplicar Estos Términos a Sus Nuevos Programas
 
-  Si desarrolla un nuevo programa, y quiere que sea lo más usado posible por
-el público, la mejor manera de conseguirlo es hacerlo software libre para 
+  Si usted desarrolla un nuevo programa, y quiere que sea lo más usado posible
+por el público, la mejor manera de conseguirlo es hacerlo software libre para 
 que cualquiera pueda redistribuirlo y modificarlo bajo estos términos.
 
-  Para ello, añada la siguiente nota al programa. Lo más seguro es añadirla
+  Para ello, añada las siguientes notas al programa. Lo más seguro es añadirla
 al principio de cada fichero fuente para declarar más efectivamente la
 exclusión de garantía; y cada fichero debe tener al menos la línea "copyright"
 y un puntero a donde se pueda encontrar la anotación completa.
@@ -20,13 +20,13 @@ y un puntero a donde se pueda encontrar la anotación completa.
     
     Este programa se distribuye con la esperanza de que sea útil pero SIN
     NINGUNA GARANTÍA; incluso sin la garantía implícita de MERCANTIBILIDAD o
-    CALIFICADA PARA UN PROPÓSITO EN PARTICULAR. Vea la GNU General Public
+    APTITUD PARA UN PROPÓSITO EN PARTICULAR. Vea la GNU General Public
     License para más detalles.
     
     Usted ha debido de recibir una copia de la GNU General Public License
     junto con este programa. Si no, vea <http://www.gnu.org/licenses/>.
     
-También añada información sobre cómo contactarle por correo electrónico u
+También añada información sobre cómo contactarle por correo electrónico y
 ordinario.
 
   Si el programa es interactivo, haga que muestre un breve aviso como el 
@@ -43,14 +43,15 @@ correspondientes de la General Public License. Por supuesto, los comandos
 en su programa pueden ser diferentes; para una interfaz gráfica de usuario, 
 puede usar un mensaje del tipo "Acerca de".
 
-  También debería conseguir que su empresa (si trabaja como programador) o 
-escuela, en su caso, firme una "renuncia de copyright" sobre el programa, si 
-fuese necesario. Para más información a este respecto, y saber cómo aplicar 
-y cumplir la licencia GNU GPL, consulte <http://www.gnu.org/licenses/>.
+  También debería conseguir que su empresa (si usted trabaja como programador)
+o escuela, en su caso, firme una "renuncia de los derechos de autor
+("copyright")" sobre el programa, si fuese necesario. Para más información a
+este respecto, y saber cómo aplicar y cumplir la licencia GNU GPL, consulte
+<http://www.gnu.org/licenses/>.
 
-  La GNU General Public License no permite incorporar sus programas como 
+  La GNU General Public License no permite incorporar su programa como 
 parte de programas propietarios. Si su programa es una subrutina en una 
-biblioteca, podría considerar mucho más útil permitir el enlace de 
-aplicaciones propietarias con la biblioteca. Si esto es lo que quiere hacer, 
-utilice la GNU Lesser General Public License en vez de esta Licencia. Pero 
-primero, por favor consulte <http://www.gnu.org/philosophy/why-not-lgpl.html>.
+biblioteca, podría considerar mucho más útil permitir enlazar aplicaciones
+propietarias con la biblioteca. Si esto es lo que quiere hacer, utilice la GNU
+Lesser General Public License en vez de esta Licencia. Pero primero, por favor
+lea <http://www.gnu.org/philosophy/why-not-lgpl.html>.

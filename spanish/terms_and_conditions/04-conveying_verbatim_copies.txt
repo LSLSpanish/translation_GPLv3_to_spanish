@@ -1,14 +1,14 @@
-  4. Distribución de Copias Literales.
+  4. Transmisión de Copias Literales.
 
   Usted podrá distribuir copias literales del código fuente del Programa tal
 cual lo ha recibido, por cualquier medio, siempre que publique visible y
 apropiadamente en cada copia el correspondiente aviso de copyright; mantenga
 intactos todos los avisos que establezcan que esta Licencia y cualquier
-cláusula no-permisiva añadida acorde con la cláusula 7 son aplicables al
+cláusula no-permisiva añadida acorde con la sección 7 son aplicables al
 código; mantenga intactos todos los avisos de ausencia de garantía; y
 proporcione a todos los destinatarios una copia de esta Licencia junto con
 el Programa.
 
   Usted podrá cobrar cualquier importe o no cobrar nada por cada copia que
-distribuya, y podrá ofrecer soporte o protección de garantía mediante un
+transmita, y podrá ofrecer soporte o protección de garantía mediante un
 pago.
