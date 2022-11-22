@@ -83,7 +83,7 @@ no se permite su modificación.
      modificación se exponen a continuación.
 
 Términos y Condiciones
-   1. Definiciones.
+   0. Definiciones.
       “Esta Licencia” se refiere a la versión 3 de la Licencia Pública General
       de GNU.
       “Derechos de Autor (“Copyright”)” también incluye a las leyes similares a
@@ -120,7 +120,7 @@ Términos y Condiciones
       obra bajo esta Licencia, y cómo ver una copia de esta Licencia. Si la
       interfaz presenta una lista de comandos de usuario u opciones, como un
       menú, un elemento destacado en la lista satisface este criterio.
-   2. Código Fuente.
+   1. Código Fuente.
       El “código fuente” de una obra significa la forma preferida de trabajo
       para hacerle modificaciones. “Código objeto” es cualquier forma no-fuente
       de una obra.
@@ -159,7 +159,7 @@ Términos y Condiciones
       Correspondiente.
       La Fuente Correspondiente de una obra en forma de código fuente es la
       obra en sí.
-   3. Permisos básicos.
+   2. Permisos básicos.
       Todos los derechos concedidos bajo esta Licencia se conceden durante la
       duración de los derechos de autor (“copyright”) del Programa, y son
       irrevocables siempre que se cumplan las condiciones establecidas. Esta
@@ -183,7 +183,7 @@ Términos y Condiciones
       La transmisión bajo otras circunstancias se permite únicamente bajo las
       condiciones expuestas a continuación. No está permitido sublicenciar, la
       sección 10 hace que sea innecesario.
-   4. Protección de los Derechos Legales de los Usuarios frente a la Ley
+   3. Protección de los Derechos Legales de los Usuarios frente a la Ley
       Antievasión.
       Ninguna obra amparada debe considerarse parte de una medida tecnológica
       efectiva, a tenor de lo establecido en cualquier ley aplicable que cumpla
@@ -197,7 +197,7 @@ Términos y Condiciones
       limitar el uso o modificación del trabajo con el objetivo de imponer,
       contra el trabajo de los usuarios, sus derechos legales o los de terceros
       para prohibir la evasión de medidas tecnológicas.
-   5. Transmisión de copias literales.
+   4. Transmisión de copias literales.
       Usted podrá distribuir copias literales del código fuente del Programa
       tal cual lo ha recibido, por cualquier medio, siempre que publique
       visible y apropiadamente en cada copia el correspondiente aviso de
@@ -209,7 +209,7 @@ Términos y Condiciones
       Usted podrá cobrar cualquier importe o no cobrar nada por cada copia que
       distribuya, y podrá ofrecer soporte o protección de garantía mediante un
       pago.
-   6. Transmisión de Versiones Modificadas de la Fuente.
+   5. Transmisión de Versiones Modificadas de la Fuente.
       Usted puede transmitir una obra basada en el Programa, o las
       modificaciones para generarla a partir del Programa, en la forma de
       código fuente bajo los términos de la sección 4, suponiendo que además
@@ -242,7 +242,7 @@ Términos y Condiciones
       que las obras individuales permitan. La inclusión de una obra amparada en
       un agregado no provoca que esta Licencia se aplique a los otros
       componentes del agregado.
-   7. Transmisión en Forma de No-Fuente.
+   6. Transmisión en Forma de No-Fuente.
       Usted puede transmitir una obra amparada en forma de código objeto bajo
       los términos de las secciones 4 y 5, siempre que también transmita la
       Fuente Correspondiente legible por una máquina bajo los términos de esta
@@ -331,7 +331,7 @@ Términos y Condiciones
       sea documentado públicamente (y con una implementación disponible para el
       público en formato de código fuente), y no deben necesitar contraseñas o
       claves particulares para la extracción, lectura o copia.
-   8. Términos adicionales.
+   7. Términos adicionales.
       Los “Permisos adicionales” son términos que se añaden a los términos de
       esta Licencia haciendo excepciones de una o más de una de sus
       condiciones. Los permisos adicionales que son aplicables al Programa
@@ -386,7 +386,7 @@ Términos y Condiciones
       Las términos adicionales, permisivos o no permisivos, pueden aparecer en
       forma de una licencia escrita por separado, o figurar como excepciones;
       los requisitos anteriores son aplicables en cualquier forma.
-   9. Conclusiones.
+   8. Conclusiones.
       Usted no podrá propagar o modificar una obra amparada salvo lo
       expresamente permitido por esta Licencia. Cualquier intento diferente de
       propagación o modificación será considerado nulo y automáticamente se
@@ -411,7 +411,7 @@ Términos y Condiciones
       esta Licencia. Si sus derechos han sido cancelados y no fueran renovados
       de manera permanente, usted no cumple los requisitos para recibir nuevas
       licencias para el mismo material bajo la sección 10.
-  10. Aceptación No Obligatoria por Tenencia de Copias.
+   9. Aceptación No Obligatoria por Tenencia de Copias.
       Usted no está obligado a aceptar esta Licencia por recibir o ejecutar una
       copia del Programa. La propagación adicional de una obra amparada surgida
       únicamente como consecuencia de usar una transmisión peer-to-peer para
@@ -420,7 +420,7 @@ Términos y Condiciones
       Estas acciones infringen los derechos de autor (“copyright”) si usted no
       acepta esta Licencia. Por lo tanto, al modificar o distribuir una obra
       amparada, usted indica que acepta esta Licencia para poder hacerlo.
-  11. Herencia Automática de Licencia para Destinatarios.
+  10. Herencia Automática de Licencia para Destinatarios.
       Cada vez que transmita una obra amparada, el destinatario recibirá
       automáticamente una licencia de los licenciadores originales, para
       ejecutar, modificar y distribuir esa obra, sujeto a esa Licencia. Usted
@@ -443,7 +443,7 @@ Términos y Condiciones
       alegando cualquier reclamación de violación de patentes por cambiar,
       usar, vender, ofrecer en venta o importar el Programa o alguna parte del
       mismo.
-  12. Patentes.
+  11. Patentes.
       Un “colaborador” es un titular de los derechos de autor (“copyright”) que
       autoriza, bajo los términos de la presente Licencia, el uso del Programa
       o una obra en la que se base el Programa. La obra así licenciada se
@@ -508,7 +508,7 @@ Términos y Condiciones
       Ninguna cláusula de esta Licencia debe ser considerada como excluyente o
       limitante de cualquier otra licencia implicada u otras defensas legales a
       que pudiera tener derecho bajo la ley de propiedad intelectual vigente.
-  13. No Abandonar la Libertad de Otros.
+  12. No Abandonar la Libertad de Otros.
       Si se le imponen condiciones (bien sea por orden judicial, acuerdo o de
       otra manera) que contradicen las condiciones de esta Licencia, estas no
       le eximen de las condiciones de esta Licencia. Si usted no puede
@@ -520,7 +520,7 @@ Términos y Condiciones
       transmite el Programa, la única forma en la que usted podría satisfacer
       tanto esos términos como esta Licencia sería abstenerse completamente de
       transmitir el Programa.
-  14. Utilización con la Licencia Pública General Affero de GNU.
+  13. Utilización con la Licencia Pública General Affero de GNU.
       A pesar de cualquier otra disposición de esta Licencia, usted tiene
       permiso para enlazar o combinar cualquier obra amparada con una obra
       licenciada bajo la Licencia Pública General Affero de GNU en una única
@@ -529,7 +529,7 @@ Términos y Condiciones
       pero los requisitos particulares de la Licencia Pública General Affero de
       GNU, sección 13, concernientes a la interacción a través de una red se
       aplicarán a la combinación como tal.
-  15. Versiones Revisadas de esta Licencia.
+  14. Versiones Revisadas de esta Licencia.
       La Free Software Foundation puede publicar versiones revisadas y/o nuevas
       de la Licencia General Pública de GNU de vez en cuando. Cada nueva
       versión será similar en espíritu a la versión actual, pero puede diferir
@@ -551,7 +551,7 @@ Términos y Condiciones
       adicionales o diferentes. No obstante, no se impone a ningún autor o
       titular de los derechos de autor obligaciones adicionales como resultado
       de su elección de seguir una versión posterior.
-  16. Descargo de Responsabilidad de Garantía.
+  15. Descargo de Responsabilidad de Garantía.
       NO HAY GARANTÍA PARA EL PROGRAMA, PARA LA EXTENSIÓN PERMITIDA POR LA LEY
       APLICABLE. EXCEPTO CUANDO SE INDIQUE LO CONTRARIO POR ESCRITO, LOS
       TITULARES DE LOS DERECHOS DE AUTOR (“COPYRIGHT”) Y/O TERCEROS
@@ -561,7 +561,7 @@ Términos y Condiciones
       PARTICULAR. EL RIESGO TOTAL EN CUANTO A CALIDAD Y RENDIMIENTO DEL
       PROGRAMA ES CON USTED. SI EL PROGRAMA PRESENTA ALGÚN DEFECTO, USTED ASUME
       EL COSTO DE TODAS LAS REVISIONES NECESARIAS, REPARACIONES O CORRECCIONES.
-  17. Limitación de la responsabilidad.
+  16. Limitación de la responsabilidad.
       EN NINGÚN CASO A MENOS QUE SEA REQUERIDO POR UNA LEY APLICABLE O ACUERDO
       ESCRITO NINGÚN TITULAR DE LOS DERECHOS DE AUTOR (“COPYRIGHT”), O NINGÚN
       TERCERO QUE MODIFIQUE Y/O TRANSMITA EL PROGRAMA COMO SE PERMITE
@@ -572,7 +572,7 @@ Términos y Condiciones
       USTED O POR TERCERAS PERSONAS, O LOS FALLOS DEL PROGRAMA PARA OPERAR CON
       OTROS PROGRAMAS), INCLUSO SI DICHO TITULAR O UN TERCERO HA SIDO ADVERTIDO
       DE LA POSIBILIDAD DE TALES DAÑOS.
-  18. Interpretación de las Secciones 15 y 16.
+  17. Interpretación de las Secciones 15 y 16.
       Si el descargo de responsabilidad de garantía y el límite de
       responsabilidad proporcionado anteriormente no tiene efectos legales de
       acuerdo a sus términos, los juzgados deberán aplicar la ley local que más
